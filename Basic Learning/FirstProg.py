@@ -40,6 +40,3 @@ sum = a + b #converts to superior i.e float
 sum2 = a +b +c
 print(sum)
 print(sum2)
-
-#conditional statement --> is-elif-else
-light = input("light : ")
