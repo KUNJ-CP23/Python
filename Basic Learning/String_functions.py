@@ -11,3 +11,9 @@ print(str.find("coder"))
 print(str.find("a"))
 
 print(str.count("a"))
+
+print(str.center(5))
+print(str.isalpha())
+print(str.isdigit())
+print(str.isnumeric())
+print(str.istitle())
