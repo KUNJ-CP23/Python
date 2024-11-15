@@ -22,3 +22,12 @@ elif(marks >= 70 and marks <80):
 else:
     print("D")
 
+#nesting conditional
+age = 95
+if(age >= 18):
+    if(age >= 80):
+        print("cannot drive")
+    else:
+        print("can drive")
+else:
+    print("cannot drive")
