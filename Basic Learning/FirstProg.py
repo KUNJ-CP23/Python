@@ -1,4 +1,5 @@
-print("This is Kunj Ramoliya")
+print("This is Kunj Ramoliya", end= " ")
+#int here prints the next line with the above line
 print("Hello from her!")
 
 #printing in same line
@@ -13,6 +14,9 @@ print(24-19)
 name = "kunj" #string
 age = 19
 spi = 9.99
+
+//f sathe value print karva dey
+print(f"value of a is : {age}")
 
 print(name,'is', age ,"years", '''having''' ,spi)
 
