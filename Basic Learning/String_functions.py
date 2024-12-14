@@ -17,3 +17,4 @@ print(str.isalpha())
 print(str.isdigit())
 print(str.isnumeric())
 print(str.istitle())
+# there are more methods like rstrip, lstrip, rjust, ljust and many more
